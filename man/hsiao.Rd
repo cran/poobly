@@ -49,6 +49,13 @@ University Press (Econometric Society Monographs), pp. 43-49.
 
 }
 
+\note{
+\bold{Acknowledgments:}
+We would like to acknowledge Dr. Kevin Tappe from the University of Stuttgart
+for useful suggestions regarding both the code and the documentation.
+
+}
+
 \examples{
 library(plm)
 data("Gasoline", package = "plm")

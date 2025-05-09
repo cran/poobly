@@ -1,7 +1,7 @@
 Package: poobly
 Type: Package
 Title: Poolability Tests in Panel Data
-Version: 0.1.1
+Version: 0.1.2
 Authors@R: c(person("Christos", "Adam", role = c("aut", "cre"),
              email = "econp266@econ.soc.uoc.gr",
              comment = c(ORCID = "0009-0003-3244-7034"))
@@ -21,7 +21,8 @@ Suggests: Rfast, Rfast2, knitr, rmarkdown, testthat (>= 3.0.0)
 VignetteBuilder: knitr, rmarkdown
 Config/testthat/edition: 3
 NeedsCompilation: no
-Packaged: 2025-01-14 10:47:28 UTC; Administrator
-Author: Christos Adam [aut, cre] (<https://orcid.org/0009-0003-3244-7034>)
+Packaged: 2025-05-09 17:32:31 UTC; Administrator
+Author: Christos Adam [aut, cre] (ORCID:
+    <https://orcid.org/0009-0003-3244-7034>)
 Repository: CRAN
-Date/Publication: 2025-01-15 18:10:01 UTC
+Date/Publication: 2025-05-09 17:50:06 UTC

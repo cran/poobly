@@ -1,9 +1,9 @@
-941f28aa62bdc09f8a72745957cf98e5 *DESCRIPTION
+de6cb94ec567d3021c3f386965deab6c *DESCRIPTION
 f05fd163609e94bcb2653b2a5da1c4c8 *NAMESPACE
-06ac184915111d84cf8fae92bf208ec7 *NEWS.md
-86faf44ee1b741d28fa3e86e1c1f9b4e *R/hsiao.R
-1224296262f2cd594cbac2323a88575c *README.md
-34e96afd2bea49f3cc3525b30c73a0f1 *build/vignette.rds
+c2642fd9d5a6aa27a1b1f1310247642f *NEWS.md
+28b448766328cedae3065673f13e0abf *R/hsiao.R
+d368849b888380abbbeea4731cfa0e8e *README.md
+cbe227f0b7a33ecd38e4d39f39570436 *build/vignette.rds
 0fd414942ee21b96b62963e66bfdaa3e *inst/doc/Introduction.R
 33662a4693408c5dd589144ad637e545 *inst/doc/Introduction.Rmd
 fbe63f79f9af1356cc0403d7d58cefb7 *inst/doc/Introduction.html
@@ -13,7 +13,7 @@ fbe63f79f9af1356cc0403d7d58cefb7 *inst/doc/Introduction.html
 e45ae093597a3ae7966dc33ef672c456 *man/figures/figure4.png
 21d539d217c4360b0ad869d253fb0831 *man/figures/figure5.png
 2da359a21ed4025980f994b89287f225 *man/figures/figure6.png
-854b99996ceca6f407d15c37d5bb5678 *man/hsiao.Rd
+8c0df796eff60788560603def43e71ac *man/hsiao.Rd
 c362ab10bb66ae6e45ba7017df79eb42 *tests/testthat.R
 8629d134c383f57f1e70f0efa2b6aa14 *tests/testthat/test-hsiao.R
 33662a4693408c5dd589144ad637e545 *vignettes/Introduction.Rmd
